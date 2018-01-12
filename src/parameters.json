@@ -1,4 +1,16 @@
 {
-    "DATA_DIR": "../../data",
-    "TMP_DIR": "../../tmp"
+    "DIRECTORIES": {
+        "DATA_DIR": "../../data",
+        "TMP_DIR": "../../tmp"
+    },
+    
+    "FILES": {
+        "PRICE_FILE": "prices.p",
+        "STATION_FILE" : "stations.p",
+         "SERVICE_FILE" : "services.p"
+    },
+    "DATABASE": {
+        "GAS_DB": "gas.db"
+         
+    }
 }
